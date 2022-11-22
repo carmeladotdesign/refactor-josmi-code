@@ -1,4 +1,4 @@
-.content {
+.zipcode-content {
     margin: 48px auto;
     max-width: 1200px;
     width: 100%;
@@ -7,19 +7,19 @@
     align-items: stretch;
 }
 
-.cart {
+.shopping-cart {
     padding: 12px 24px;
     border-left: 1px solid #eee;
 }
 
-.cart-row {
+.units-of-chicle-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 12px 24px;
 }
 
-.cart-row__info {
+.delivery-costs-row {
     display: flex;
     align-items: center;
 }
@@ -37,7 +37,7 @@
     max-width: 120px;
 }
 
-.delivery {
+.delivery-input {
     padding: 12px;
     margin-bottom: 12px;
 }
@@ -51,7 +51,7 @@
     margin-right: 12px;
 }
 
-.total {
+.total-price-row {
     padding-top: 12px;
     border-top: 1px solid #222;
 }
